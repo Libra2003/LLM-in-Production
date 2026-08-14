@@ -1,0 +1,21 @@
+{
+  "backend": "tokenizers",
+  "bos_token": "<s>",
+  "cls_token": "<cls>",
+  "eos_token": "</s>",
+  "mask_token": "<mask>",
+  "model_max_length": 512,
+  "pad_token": "<pad>",
+  "sep_token": "<sep>",
+  "special_tokens": [
+    "<s>",
+    "<pad>",
+    "</s>",
+    "<unk>",
+    "<cls>",
+    "<sep>",
+    "<mask>"
+  ],
+  "tokenizer_class": "TokenizersBackend",
+  "unk_token": "<unk>"
+}
