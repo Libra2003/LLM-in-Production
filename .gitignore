@@ -2,3 +2,9 @@ venv/
 env/
 .env/
 __pycache__/
+# Ignore all model files
+models/
+# Ignore Chapter 5 contents except 5.1 and 5.2
+Chapter 5/*
+!Chapter 5/5.1.scratchGPT.py
+!Chapter 5/5.2.finetuning.py
