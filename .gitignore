@@ -8,3 +8,4 @@ models/
 Chapter 5/*
 !Chapter 5/5.1.scratchGPT.py
 !Chapter 5/5.2.finetuning.py
+!Chapter 5/5.3.PromptTuning.py
