@@ -6,13 +6,9 @@ __pycache__/
 models/
 models_onnx/
 # Ignore Chapter 5 contents except 5.1 and 5.2
-Chapter 5/*
-!Chapter 5/5.1.scratchGPT.py
-!Chapter 5/5.2.finetuning.py
-!Chapter 5/5.3.PromptTuning.py
-!Chapter 5/5.4.knowledgedistillation.py
-!Chapter 5/5.5.MoE.py
-!Chapter 5/5.6.LoRA_PEFT.py
+Chapter 6/*
+!Chapter 6/6.1.tensorrt.py
 
-
-Chapter 6/
+Chapter 6/__pycache__/
+Chapter 6/feast/
+Chapter 6/feast_example/
