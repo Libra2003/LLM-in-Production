@@ -8,9 +8,11 @@ models_onnx/
 # Ignore Chapter 5 contents except 5.1 and 5.2
 Chapter 6/*
 !Chapter 6/6.1.tensorrt.py
+!Chapter 6/6.2.flow_control.py
 
 Chapter 6/__pycache__/
 Chapter 6/feast/
 Chapter 6/feast_example/
 
 Chapter 7/
+Chapter 8/
