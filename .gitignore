@@ -9,6 +9,7 @@ models_onnx/
 Chapter 6/*
 !Chapter 6/6.1.tensorrt.py
 !Chapter 6/6.2.flow_control.py
+!Chapter 6/6.3.streaming.py
 
 Chapter 6/__pycache__/
 Chapter 6/feast/
