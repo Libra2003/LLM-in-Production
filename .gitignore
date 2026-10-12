@@ -5,9 +5,7 @@ __pycache__/
 # Ignore all model files
 models/
 models_onnx/
-# Ignore Chapter 5 contents except 5.1 and 5.2
 
 
 
-Chapter 7/
 Chapter 8/
